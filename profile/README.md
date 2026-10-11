@@ -1,1 +1,15 @@
-Njin adalah tim yang mematahkan batasan teknologi untuk menghadirkan solusi yang sederhana namun revolusioner. Kami percaya bahwa setiap individu dan bisnis, besar atau kecil, berhak merasakan dampak positif dari inovasi digital. Bergabunglah dengan kami dalam perjalanan untuk mengubah cara dunia berinteraksi dengan teknologi, menggerakkan pertumbuhan dan menciptakan masa depan yang lebih cerah.
+# NjinLabs
+
+Wadah pengembangan teknologi PT Njin Daya Teknologi. Setiap teknologi yang kami kembangkan lebih dulu digunakan pada produk kami sendiri.
+
+## Njin Framework
+
+Framework web open source untuk membangun aplikasi web yang cepat dan konsisten. Dikembangkan dengan Bun, Elysia, EdgeJS, Alpine.js, SurrealDB, dan Zod, serta dirancang agar dapat dikerjakan secara efektif dengan bantuan AI.
+
+Repositori: [njinlabs/njin](https://github.com/njinlabs/njin)
+
+## JadiWeb
+
+Layanan pembuatan website bisnis yang berjalan di atas Njin Framework. Pada pengujian beban, JadiWeb melayani 100 pengguna secara bersamaan selama 5,5 menit dengan total 7.688 request tanpa satu pun kegagalan. Pengujian ini mengukur beban yang stabil, bukan lonjakan mendadak.
+
+Situs: [jadiweb.id](https://jadiweb.id)
