@@ -1,3 +1,3 @@
-We are NjinLabs, a community dedicated to fostering open-source technology innovation. With a collaborative spirit and a firm commitment to open-source principles, we relentlessly pursue the creation of technology solutions that are both beneficial and accessible to all. We take pride in our role as pioneers, leading the way in introducing technological innovation to the broader community and advocating for sustainable digital transformation.
+# NjinLabs community health files
 
-At NjinLabs, we believe in the power of collective knowledge and the value of transparent collaboration. Our mission is to not only develop open-source solutions but also to nurture a culture of inclusivity, where technology serves as a force for positive change. Join us in our journey to shape a more open, accessible, and sustainable digital future for everyone.
+Default community health files for every NjinLabs repository that does not define its own: issue templates, pull request template, code of conduct and support guide. The organization profile lives in [profile/README.md](profile/README.md).

@@ -1,15 +1,46 @@
-# NjinLabs
+<p align="center">
+  <a href="https://njin.run">
+    <img src="https://raw.githubusercontent.com/njinlabs/njin/main/assets/logo.svg" alt="njin" width="240">
+  </a>
+</p>
 
-Wadah pengembangan teknologi PT Njin Daya Teknologi. Setiap teknologi yang kami kembangkan lebih dulu digunakan pada produk kami sendiri.
+<p align="center">
+  <b>An AI-native web framework for company profiles, landing pages and content sites.</b><br>
+  Built on Bun and Elysia. Describe your content once, get an API, an admin panel, an MCP server and server-rendered pages.
+</p>
 
-## Njin Framework
+<p align="center">
+  <a href="https://njin.run">Website</a> ·
+  <a href="https://njin.run/docs">Documentation</a> ·
+  <a href="https://www.npmjs.com/package/@njinlabs/njin">npm</a> ·
+  <a href="https://github.com/njinlabs/njin/discussions">Discussions</a>
+</p>
 
-Framework web open source untuk membangun aplikasi web yang cepat dan konsisten. Dikembangkan dengan Bun, Elysia, EdgeJS, Alpine.js, SurrealDB, dan Zod, serta dirancang agar dapat dikerjakan secara efektif dengan bantuan AI.
+## Get started
 
-Repositori: [njinlabs/njin](https://github.com/njinlabs/njin)
+```bash
+bunx @njinlabs/njin create my-web
+cd my-web
+bunx njin dev
+```
 
-## JadiWeb
+## The njin ecosystem
 
-Layanan pembuatan website bisnis yang berjalan di atas Njin Framework. Pada pengujian beban, JadiWeb melayani 100 pengguna secara bersamaan selama 5,5 menit dengan total 7.688 request tanpa satu pun kegagalan. Pengujian ini mengukur beban yang stabil, bukan lonjakan mendadak.
+| Repository | What it is |
+| --- | --- |
+| [njin](https://github.com/njinlabs/njin) | The framework: models, REST API, MCP server, SSR, auth |
+| [njin-admin](https://github.com/njinlabs/njin-admin) | The admin panel, extensible with plugins |
+| [njin-mail](https://github.com/njinlabs/njin-mail) | A webmail client |
+| [njin-supervisor](https://github.com/njinlabs/njin-supervisor) | Provisions client sites and monitors their workers |
 
-Situs: [jadiweb.id](https://jadiweb.id)
+## Also from NjinLabs
+
+- [memoyce](https://github.com/njinlabs/memoyce): long-term memory for AI agents, built on SurrealDB
+- [kinetikjs](https://github.com/njinlabs/kinetikjs)
+- [JadiWeb](https://jadiweb.id): a business website service that runs on njin
+
+## About
+
+NjinLabs is the technology lab of PT Njin Daya Teknologi. We build with our own tools first, then open-source them. Contributions are welcome: start with the [contributing guide](https://github.com/njinlabs/njin/blob/main/CONTRIBUTING.md).
+
+*Lab teknologi PT Njin Daya Teknologi, tempat lahirnya Njin Framework dan JadiWeb. Pertanyaan dalam bahasa Indonesia juga diterima di Discussions.*
