@@ -30,7 +30,6 @@ bunx njin dev
 | --- | --- |
 | [njin](https://github.com/njinlabs/njin) | The framework: models, REST API, MCP server, SSR, auth |
 | [njin-admin](https://github.com/njinlabs/njin-admin) | The admin panel, extensible with plugins |
-| [memoyce](https://github.com/njinlabs/memoyce) | Long-term memory for AI agents, built on SurrealDB |
 
 ## Contributing
 
