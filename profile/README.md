@@ -33,4 +33,4 @@ bunx njin dev
 
 ## Contributing
 
-Contributions are welcome. Start with the [contributing guide](https://github.com/njinlabs/njin/blob/main/CONTRIBUTING.md), and ask questions in [Discussions](https://github.com/njinlabs/njin/discussions). Pertanyaan dalam bahasa Indonesia juga diterima.
+Contributions are welcome. Start with the [contributing guide](https://github.com/njinlabs/njin/blob/main/CONTRIBUTING.md), and ask questions in [Discussions](https://github.com/njinlabs/njin/discussions).
