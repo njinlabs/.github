@@ -24,23 +24,14 @@ cd my-web
 bunx njin dev
 ```
 
-## The njin ecosystem
+## Projects
 
 | Repository | What it is |
 | --- | --- |
 | [njin](https://github.com/njinlabs/njin) | The framework: models, REST API, MCP server, SSR, auth |
 | [njin-admin](https://github.com/njinlabs/njin-admin) | The admin panel, extensible with plugins |
-| [njin-mail](https://github.com/njinlabs/njin-mail) | A webmail client |
-| [njin-supervisor](https://github.com/njinlabs/njin-supervisor) | Provisions client sites and monitors their workers |
+| [memoyce](https://github.com/njinlabs/memoyce) | Long-term memory for AI agents, built on SurrealDB |
 
-## Also from NjinLabs
+## Contributing
 
-- [memoyce](https://github.com/njinlabs/memoyce): long-term memory for AI agents, built on SurrealDB
-- [kinetikjs](https://github.com/njinlabs/kinetikjs)
-- [JadiWeb](https://jadiweb.id): a business website service that runs on njin
-
-## About
-
-NjinLabs is the technology lab of PT Njin Daya Teknologi. We build with our own tools first, then open-source them. Contributions are welcome: start with the [contributing guide](https://github.com/njinlabs/njin/blob/main/CONTRIBUTING.md).
-
-*Lab teknologi PT Njin Daya Teknologi, tempat lahirnya Njin Framework dan JadiWeb. Pertanyaan dalam bahasa Indonesia juga diterima di Discussions.*
+Contributions are welcome. Start with the [contributing guide](https://github.com/njinlabs/njin/blob/main/CONTRIBUTING.md), and ask questions in [Discussions](https://github.com/njinlabs/njin/discussions). Pertanyaan dalam bahasa Indonesia juga diterima.
